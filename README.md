@@ -6,7 +6,7 @@ Sou desenvolvedora de software em formação, com interesse em Front-End e Base 
 - **Ferramentas:** Git, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js
 
 ## 📂 Projetos Recentes
-- [Sistema de Gestão de Biblioteca em Java](https://github.com/seu-usuario/biblioteca)
+- [Sistema de Gestão de Biblioteca em Java](https://github.com/Vdevanessa/Sistema_de_Gestao_de_Biblioteca.git)
 - [Analizador de texto em Java](https://github.com/seu-usuario/biblioteca)
 - [Calculadora de Notas em Java](https://github.com/seu-usuario/biblioteca)
 - [Sistema Bancário em Java](https://github.com/seu-usuario/biblioteca)
