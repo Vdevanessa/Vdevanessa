@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, sou a Vanessa! 👩‍💻
+Sou desenvolvedora de software em formação, com interesse em Front-End e Base de dados.
 
-<!--
-**Vdevanessa/Vdevanessa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Habilidades
+- **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL
+- **Ferramentas:** Git, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js
 
-Here are some ideas to get you started:
+## 📂 Projetos Recentes
+- [Sistema de Gestão de Biblioteca em Java](https://github.com/seu-usuario/biblioteca)
+- [Analizador de texto em Java](https://github.com/seu-usuario/biblioteca)
+- [Calculadora de Notas em Java](https://github.com/seu-usuario/biblioteca)
+- [Sistema Bancário em Java](https://github.com/seu-usuario/biblioteca)
+- [Gestor de lista de Compras em Java](https://github.com/seu-usuario/biblioteca)
+- [Jogo de Adivinha em Java](https://github.com/seu-usuario/biblioteca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Redes
+- [LinkedIn](www.linkedin.com/in/vanessa-pires-4298b878)
+
