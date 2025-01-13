@@ -16,12 +16,9 @@ Sou uma **desenvolvedora de software em formação**, com um forte interesse em 
 
 Abaixo, você pode conferir alguns dos projetos nos quais estou trabalhando ou já desenvolvi:
 
-### [Sistema de Gestão de Biblioteca em Java](https://github.com/Vdevanessa/Sistema_de_Gestao_de_Biblioteca)
-- **Descrição**: Este programa simula um sistema de gestão de biblioteca. Permite adicionar livros
-ao sistema(máximo de 100), realizar empréstimos e devoluções, pesquisar por diferentes critérios e manter
-um registo de todas as operações. O sistema deve validar todas as operações e manter o controlo do stock de
-livros.
-- **Tecnologias**: Java
+### [Jogo Guess the Number](https://github.com/Vdevanessa/Jogo-Guess-the-Number-.git)
+- **Descrição**: "Guess the Number" é um jogo simples e divertido, onde o jogador precisa adivinhar um número gerado aleatoriamente dentro de um intervalo específico. O jogo oferece três níveis de dificuldade para desafiar seus jogadores!
+- **Tecnologias**: Swift
 
 ### [Gestão de Estádio de Futebol](https://github.com/Vdevanessa/Sistema-de-Gestao-de-Estadio.git)
 - **Descrição**: Este projeto tem como objetivo a criação de um sistema de gerenciamento de eventos em um estádio de futebol.  
