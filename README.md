@@ -34,8 +34,6 @@ livros.
 A aplicação funcionará como um catálogo online, permitindo que os utilizadores consultem informações sobre os livros disponíveis e que um administrador faça a gestão do catálogo.
 - **Tecnologias**: Php / Laravel
 
-https://github.com/Vdevanessa/Sistema-de-Gestao-de-Estadio.git
-
 
 ### [Analizador de texto](https://github.com/seu-usuario/biblioteca)
 - **Descrição**: Este programa analisa um texto introduzido pelo utilizador, fornecendo estatísticas
