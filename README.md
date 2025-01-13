@@ -1,11 +1,12 @@
 # Olá, sou a Vanessa! 👩‍💻
-Sou desenvolvedora de software em formação, com interesse em Desenvolvimento de Software (Frontend/Backend)
-Estudos avançados em Programação Orientada a Objetos e design de sistemas com Java e Python.
-Desenvolvimento Mobile para plataformas Android e iOS, e tenho interesse crescente por Qualidade de Software e estratégias de Testes Automatizados.
+Sou desenvolvedora de software em formação, com interesse em Desenvolvimento de Software (Frontend/Backend), 
+estudos avançados em Programação Orientada a Objetos e design de sistemas com Java.
+Desenvolvimento Mobile para plataformas Android e iOS.
+Também tenho interesse crescente por Qualidade de Software e estratégias de Testes Automatizados.
 
 ## 🛠️ Habilidades
-- **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL
-- **Ferramentas:** Git, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js
+- **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL, Kotlin, Swift
+- **Ferramentas:** Git, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js, Laravel
 
 ## 📂 Projetos Recentes
 - [Sistema de Gestão de Biblioteca em Java](https://github.com/Vdevanessa/Sistema_de_Gestao_de_Biblioteca.git)
