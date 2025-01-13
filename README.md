@@ -1,5 +1,7 @@
 # Olá, sou a Vanessa! 👩‍💻
-Sou desenvolvedora de software em formação, com interesse em Front-End e Base de dados.
+Sou desenvolvedora de software em formação, com interesse em Desenvolvimento de Software (Frontend/Backend)
+Estudos avançados em Programação Orientada a Objetos e design de sistemas com Java e Python.
+Desenvolvimento Mobile para plataformas Android e iOS, e tenho interesse crescente por Qualidade de Software e estratégias de Testes Automatizados.
 
 ## 🛠️ Habilidades
 - **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL
