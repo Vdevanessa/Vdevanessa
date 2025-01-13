@@ -34,27 +34,12 @@ livros.
 A aplicação funcionará como um catálogo online, permitindo que os utilizadores consultem informações sobre os livros disponíveis e que um administrador faça a gestão do catálogo.
 - **Tecnologias**: Php / Laravel
 
-
-### [Analizador de texto](https://github.com/seu-usuario/biblioteca)
-- **Descrição**: Este programa analisa um texto introduzido pelo utilizador, fornecendo estatísticas
-detalhadas sobre o mesmo. Realiza análises básicas como contagem de palavras e caracteres, bem como
-análises mais complexas como identificação de palavras específicas e a sua localização no texto.
-- **Tecnologias**: Java
-
-  
- ### [Sistema Bancário](https://github.com/seu-usuario/biblioteca)
-- **Descrição**: O programa simula um sistema bancário simples com uma única conta.
-Inicialmente, o utilizador deve criar uma conta fornecendo o seu nome e um depósito inicial. Após a criação
-da conta, o utilizador tem acesso a um menu com quatro opções: realizar depósitos, efetuar levantamentos,
-verificar o saldo e dados da conta, ou sair do programa. Cada operação deve ser validada e atualizar o saldo
-adequadamente.
-- **Tecnologias**: Java
-
-
-
-
-- [Gestor de lista de Compras em Java](https://github.com/seu-usuario/biblioteca)
-- [Jogo de Adivinha em Java](https://github.com/seu-usuario/biblioteca)
+### [Site Web de um teatro](https://github.com/Vdevanessa/Projeto_WEB.git)
+- **Descrição**: Este é o projeto Room3, um site responsivo que tem como objetivo mostrar as próximas peças de teatro que vão estrear.  
+O site está dividido em diferentes páginas, desenvolvidas por uma equipa de quatro membros, cada um sendo responsável por uma secção específica do site.  
+O objetivo é criar uma experiência coesa e uniforme para o utilizador, permitindo-lhe explorar facilmente as peças de teatro,  
+efetuar pagamentos e obter informações adicionais sobre o projeto e os seus criadores.
+- **Tecnologias**: HTML, CSS, JavaScript
 
 
 ## 🌐 Redes
