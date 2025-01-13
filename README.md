@@ -23,7 +23,7 @@ um registo de todas as operações. O sistema deve validar todas as operações 
 livros.
 - **Tecnologias**: Java
 
-### [Gestão de EStádio de Futebol](https://github.com/Vdevanessa/Sistema-de-Gestao-de-Estadio.git)
+### [Gestão de Estádio de Futebol](https://github.com/Vdevanessa/Sistema-de-Gestao-de-Estadio.git)
 - **Descrição**: Este projeto tem como objetivo a criação de um sistema de gerenciamento de eventos em um estádio de futebol.  
 -  A aplicação permitirá ao usuário realizar operações de compra de bilhetes, adicionar rolotes, criar adeptos, entre outras funcionalidades.  
 -  O sistema também oferece estatísticas sobre a ocupação do estádio, os jogos realizados e o faturamento das rolotes, além de simular a realização de jogos com resultados aleatórios.
