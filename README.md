@@ -3,14 +3,31 @@ Sou uma **desenvolvedora de software em formação**, com um forte interesse em 
 
 ## Áreas de Interesse
 
-- **Desenvolvimento de Software**: Frontend e Backend.
-- **Programação Orientada a Objetos** e **design de sistemas** com **Java**.
-- **Desenvolvimento Mobile** para plataformas **Android** e **iOS**.
+- **Desenvolvimento de Software**: Frontend e Backend;
+- **WordPress Web Design** com foco em performance e UX;
+- **Programação Orientada a Objetos** e **design de sistemas** com **Java**;
+- **Desenvolvimento Mobile** para plataformas **Android** e **iOS**;
 - **Qualidade de Software** e **estratégias de Testes Automatizados**.
 
 ## 🛠️ Habilidades em desenvolvimento
-- **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL, Kotlin, Swift
-- **Ferramentas:** Git, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js, Laravel
+- **Linguagens:** Java, PHP, C, HTML, JavaScript, CSS, SQL, Kotlin, Swift.
+- **Ferramentas e Tecnologias:** Git, WordPress, Elementor, Bootstrap, MySQL, PhpMyAdmin, Tailwind, Next.js, Laravel.
+
+## 🌐 Experiência com WordPress
+
+- Criação e personalização de websites com **WordPress**, focando em **performance**, **responsividade** e **experiência do utilizador**.
+- Utilização avançada de **Elementor**, **Royal Addons** e outros plugins visuais para construir páginas dinâmicas e profissionais.
+- Integração de ferramentas de SEO, formulários, Google Analytics e funcionalidades específicas via plugins e shortcodes.
+- Customização de temas e modificação de ficheiros PHP, HTML e CSS para atender às necessidades de cada projeto.
+- Experiência em construção de **galerias, sliders, carrosséis** e áreas de conteúdos dinâmicos com base em plugins personalizados.
+
+---
+
+## 📈 Em constante evolução
+
+Valorizo a aprendizagem contínua e estou sempre a explorar novas tecnologias, boas práticas de desenvolvimento e frameworks modernos. O meu objetivo é crescer como programadora e colaborar em projetos desafiadores que impactem positivamente os utilizadores.
+
+---
 
 ## Projetos 📂
 
